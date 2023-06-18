@@ -1,5 +1,3 @@
-![Application screenshot](./assets/screenshots.png)
-
 [Namaste Orleans Restaurant]() is a simple, modern and responsive website for restaurants, made with Bootstrap.
 
 # Live Preview:
